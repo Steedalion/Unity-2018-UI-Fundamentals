@@ -1,17 +1,6 @@
 # Unity Prototype Template
-## How to use:
-1. Go to project folder
 
-2. Clone
-
-3. Rename Folder (UnityPrototype -> Tankz)
-
-4. in the folder, remove git (rm -fr ./Tankz/.git)
-
-5. Start a new git repo (git init)
-
-
-Unity prototype
+[UI prototype] (https://learn.unity.com/project/unity-2018-ui-fundamentals?uv=2019.3&missionId=5f751af7edbc2a0022cdbbb6)
 
 Screenshot
 <img src='Screenshot.PNG' align="right" width=960>
